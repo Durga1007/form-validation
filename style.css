@@ -1,0 +1,83 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    vertical-align: center;
+    word-wrap: no-wrap;
+}
+.container
+{
+    margin: 0 100px;
+    padding: o;
+    background-color: #5799c2;
+}
+
+form
+{
+    margin: 50px 30px;
+    padding: 0;
+}
+input
+{
+    margin: 20px 0;
+    padding: auto;
+    width: 200px;
+    height: 24px;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+}
+label
+{
+    margin: auto;
+    padding: auto;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#fname
+{
+    margin: 5px 0;
+    padding: 0;
+}
+
+#mail
+{
+    margin: 0;
+    padding: 0;
+}
+#emailid
+{
+    margin: 0 16px;
+    padding: auto;
+}
+ #dob
+{
+    margin: 0 0px;
+    padding: 0;
+}
+
+#monum
+{
+    margin: -55px 0px;
+    padding: 0;
+}
+
+#submit
+{
+    margin:  37px 119px;
+    padding:0;
+    height: 35px;
+    width: 80px;
+    color: #fff;
+    background-color: brown;
+}
+
+#reset
+{
+    margin:0px -100px;
+    padding:0;
+    height: 35px;
+    width: 80px;
+    color: #fff;
+    background-color: brown;
+}
